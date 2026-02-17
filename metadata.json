@@ -12,8 +12,8 @@
     "duration": 12,
     "prerequisites": [
         "python-lists-introduction",
-        "python-lists-methods-append",
-        "python-lists-methods-insert",
+        "python-lists-append",
+        "python-lists-insert",
         "python-lists-concatenation",
         "python-exceptions"
     ],
