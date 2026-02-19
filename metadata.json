@@ -14,7 +14,7 @@
         "python-lists-introduction",
         "python-lists-append",
         "python-lists-insert",
-        "python-lists-concatenation",
+        "python-concatenation",
         "python-exceptions"
     ],
     "related": [
