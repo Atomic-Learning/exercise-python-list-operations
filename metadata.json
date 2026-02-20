@@ -1,6 +1,6 @@
 {
     "title": "Exercise: List Operations",
-    "slug": "exercise-python-list-operations",
+    "slug": "exercise-python-manipulating-list-animals",
     "description": "Create a list of animals, append/insert items, concatenate with another list, and explore what happens with out-of-bounds indices.",
     "authors": [
         "chris-cooling"
@@ -9,7 +9,7 @@
         "python",
         "exercise"
     ],
-    "duration": 12,
+    "duration": 8,
     "prerequisites": [
         "python-lists-introduction",
         "python-lists-append",
@@ -18,6 +18,6 @@
         "python-exceptions"
     ],
     "related": [
-        "sample-solution-python-list-operations"
+        "sample-solution-python-manipulating-list-animals"
     ]
 }
