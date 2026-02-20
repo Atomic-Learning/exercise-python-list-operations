@@ -1,5 +1,5 @@
 {
-    "title": "Exercise: List Operations",
+    "title": "Exercise: Python - Manipulating a List of Animals",
     "slug": "exercise-python-manipulating-list-animals",
     "description": "Create a list of animals, append/insert items, concatenate with another list, and explore what happens with out-of-bounds indices.",
     "authors": [
